@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name NRF91GAP-Superflat-rescue)(type Legacy)(uri "A:/NRF91-GAP/Hardware Design/NRF91-GAP-SUPERFLAT/NRF91GAP-Superflat-rescue.lib")(options "")(descr ""))
+)
