@@ -3,7 +3,9 @@ This is hardware project concept of a CR2032 Operated small size LTE-M/NB-Iot GP
 ## Reason
 We created these designs and products for our company www.menura.org. If you are in need of custom hardware, software and or solutions that provide digital insights  - please contact us at contact@menura.org 
 
-For us, it's one of those products that would be pretty cool to make but hard to go-to-market with. You will need to provide a back end and front end with adequate independent hosting (could be https://www.traccar.org/). Most tracking providers operate on central servers which they own. They, as sellers, are fully capable of tracking your assets. It doesn't sound all that fun if you realize anyone working at those companies in the right position is fully capable of tracking you and your assets as well if not better than you can.
+For us, it's one of those products that would be pretty cool to make but hard to go-to-market with. You will need to provide a back end and front end with adequate independent hosting (could be https://www.traccar.org/). Most tracking providers operate with central servers that they themselves own. They, as sellers, are fully capable of tracking your assets. It doesn't sound all that fun if you realize anyone working at those companies in the right position is fully capable of tracking you and your assets as well if not better than you can. 
+
+Besides that, most trackers are trash or DIY. They use technology from < 2010 and have no single thought for (operational) security or reliability. Using the NRF9160, you now have a small GPS tracker communicating over LTE-M/NB-Iot that uses little energy and can provide the security guarantees you need. Using open-source software (or your in-house C2) you are now also not relient on obscure third party providers. Best of all worlds, right?
 
 ## Notes
 This is a design in concept. This is not yet in production, we are 80% sure this should work as is but still have some things to keep in mind;
